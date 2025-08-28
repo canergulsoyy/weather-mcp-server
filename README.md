@@ -1,4 +1,4 @@
-# 🌤️ MCP Weather Server
+# 🌤️ Weather MCP Server
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6.3-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.18.0+-green.svg)](https://nodejs.org/)
@@ -362,7 +362,7 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 **Caner Gülsoy** tarafından geliştirilmiştir.
 
-- **GitHub**: [@canergulsoy](https://github.com/canergulsoyy)
+- **GitHub**: [@canergulsoyy](https://github.com/canergulsoyy)
 
 
 ## 🙏 **Teşekkürler**
