@@ -385,8 +385,8 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-[![GitHub stars](https://img.shields.io/github/stars/canergulsoyy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/mcp-weather-server)
-[![GitHub forks](https://img.shields.io/github/forks/canergulsoy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/mcp-weather-server)
-[![GitHub issues](https://img.shields.io/github/issues/canergulsoyy/mcp-weather-server)](https://github.com/canergulsoyy/mcp-weather-server/issues)
+[![GitHub stars](https://img.shields.io/github/stars/canergulsoyy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/weather-mcp-server?tab=readme-ov-file)
+[![GitHub forks](https://img.shields.io/github/forks/canergulsoy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/weather-mcp-server?tab=readme-ov-file)
+[![GitHub issues](https://img.shields.io/github/issues/canergulsoyy/mcp-weather-server)](https://github.com/canergulsoyy/weather-mcp-server?tab=readme-ov-file)
 
 </div> 
