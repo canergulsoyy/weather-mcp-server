@@ -362,9 +362,8 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 **Caner Gülsoy** tarafından geliştirilmiştir.
 
-- **GitHub**: [@canergulsoy](https://github.com/canergulsoy)
-- **LinkedIn**: [Caner Gülsoy](https://linkedin.com/in/canergulsoy)
-- **Website**: [canergulsoy.com](https://canergulsoy.com)
+- **GitHub**: [@canergulsoy](https://github.com/canergulsoyy)
+
 
 ## 🙏 **Teşekkürler**
 
@@ -376,8 +375,8 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 ## 📞 **İletişim**
 
-- **Issues**: [GitHub Issues](https://github.com/canergulsoy/mcp-weather-server/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/canergulsoy/mcp-weather-server/discussions)
+- **Issues**: [GitHub Issues](https://github.com/canergulsoyy/mcp-weather-server/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/canergulsoyy/mcp-weather-server/discussions)
 - **Email**: caner@canergulsoy.com
 
 ---
@@ -386,8 +385,8 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-[![GitHub stars](https://img.shields.io/github/stars/canergulsoy/mcp-weather-server?style=social)](https://github.com/canergulsoy/mcp-weather-server)
-[![GitHub forks](https://img.shields.io/github/forks/canergulsoy/mcp-weather-server?style=social)](https://github.com/canergulsoy/mcp-weather-server)
-[![GitHub issues](https://img.shields.io/github/issues/canergulsoy/mcp-weather-server)](https://github.com/canergulsoy/mcp-weather-server/issues)
+[![GitHub stars](https://img.shields.io/github/stars/canergulsoyy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/mcp-weather-server)
+[![GitHub forks](https://img.shields.io/github/forks/canergulsoy/mcp-weather-server?style=social)](https://github.com/canergulsoyy/mcp-weather-server)
+[![GitHub issues](https://img.shields.io/github/issues/canergulsoyy/mcp-weather-server)](https://github.com/canergulsoyy/mcp-weather-server/issues)
 
 </div> 
